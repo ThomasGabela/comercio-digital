@@ -1,0 +1,7 @@
+# Ignorar los directorios __pycache__
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar los directorios Test
+test/
